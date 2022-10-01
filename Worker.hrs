@@ -1,0 +1,9 @@
+&&))Transfer[
+main var nueralnetwork(*)
+main var sample(*-*)
+]
+()Import[nueralnetwork, "NueralNetworkThinking.hrs.co"]
+constant{
+#send({[elements.webview.js.var.video]})
+#recieve()
+}
